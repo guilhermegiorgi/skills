@@ -1,5 +1,4 @@
-# gg.ai skills
-
+# GG Skills
 [![skills.sh](https://skills.sh/b/guilhermegiorgi/skills)](https://skills.sh/guilhermegiorgi/skills)
 
 Skills para agentes de IA focados em segurança, compliance e boas práticas de engenharia de software. Compatíveis com Claude Code, Cursor, Codex, Windsurf e [outros agentes](https://github.com/vercel-labs/skills#supported-agents).
@@ -106,5 +105,6 @@ skills/
 
 ## Sobre
 
-Desenvolvido por [Guilherme Giorgi](https://github.com/guilhermegiorgi) — Engenheiro Agrônomo, especialista em IA aplicada e desenvolvimento de sistemas.  
-[gg.ai labs](https://ggailabs.com) · Nova Mutum, MT.
+### Desenvolvido por [Guilherme Giorgi](https://github.com/guilhermegiorgi) 
+#### Engenheiro Agrônomo, especialista em IA aplicada e desenvolvimento de sistemas.  
+[ggailabs](https://ggailabs.com)
